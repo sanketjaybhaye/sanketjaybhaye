@@ -81,11 +81,13 @@
 
 <div align="center">
 
-[![RoboRecon](https://github-readme-stats.vercel.app/api/pin/?username=sanketjaybhaye&repo=RoboRecon&theme=chartreuse-dark&border_color=00ff41&title_color=00ff41)](https://github.com/sanketjaybhaye/RoboRecon)
-[![Hacking_Stuff](https://github-readme-stats.vercel.app/api/pin/?username=sanketjaybhaye&repo=Hacking_Stuff&theme=chartreuse-dark&border_color=00ff41&title_color=00ff41)](https://github.com/sanketjaybhaye/Hacking_Stuff)
-
-[![WiFiBreaker](https://github-readme-stats.vercel.app/api/pin/?username=sanketjaybhaye&repo=WiFiBreaker&theme=chartreuse-dark&border_color=00ff41&title_color=00ff41)](https://github.com/sanketjaybhaye/WiFiBreaker)
-[![ftp_Brute](https://github-readme-stats.vercel.app/api/pin/?username=sanketjaybhaye&repo=ftp_Brute&theme=chartreuse-dark&border_color=00ff41&title_color=00ff41)](https://github.com/sanketjaybhaye/ftp_Brute)
+| 🔭 Project | 📝 Description | 🛠️ Tech | ⭐ Stars |
+|---|---|---|---|
+| [**RoboRecon**](https://github.com/sanketjaybhaye/RoboRecon) | Advanced recon framework — automates robots.txt crawling, hidden URL discovery & deep target intelligence | `Python` | ⭐ 3 |
+| [**Hacking_Stuff**](https://github.com/sanketjaybhaye/Hacking_Stuff) | A curated collection of ethical hacking scripts & resources for beginners | `Python` | ⭐ 3 |
+| [**WiFiBreaker**](https://github.com/sanketjaybhaye/WiFiBreaker) | Wireless security testing tool for educational use — WiFi auditing made simple | `Shell` | ⭐ 2 |
+| [**ftp_Brute**](https://github.com/sanketjaybhaye/ftp_Brute) | Lightweight FTP brute-force tool inspired by Hydra, built for learning | `Python` | ⭐ 2 |
+| [**Web_Scraper**](https://github.com/sanketjaybhaye/Web_Scraper) | Ethical web scraper — only scrape sites you have permission to access | `Python` | ⭐ 2 |
 
 </div>
 
